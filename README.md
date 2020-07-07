@@ -14,6 +14,12 @@ This repo is created for git-github  and markdown cheatsheet for who want to  re
 
 ## How Git works ?
 Look at IBM developer page => [How it works](https://developer.ibm.com/technologies/web-development/tutorials/d-learn-workings-git/)
+## Workflow of GitHub
+![work flow](./workflow.png)
+
+
+## Git States
+![states](./states.png)
 
 ##  Basics 
 * Create empty Git repo in specified directory. Run with no
