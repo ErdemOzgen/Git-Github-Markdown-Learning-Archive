@@ -337,6 +337,6 @@ git push <remote> --all
 # Markdown Tutorial Links
 1. [Github Docs](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 2. [Interactive Tutorial](https://www.markdowntutorial.com/)
-3. [Github Guiedes](https://guides.github.com/features/mastering-markdown/)
+3. [Github Guides](https://guides.github.com/features/mastering-markdown/)
 4. [Daring Fireball](https://daringfireball.net/projects/markdown/)
 5. [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
