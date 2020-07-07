@@ -20,7 +20,12 @@ Look at IBM developer page => [How it works](https://developer.ibm.com/technolog
 
 ## Git States
 ![states](./states.png)
+<br></br>
+[States explained](https://youtu.be/r8GeKo17VWE)
 
+## Git Ignore
+Gitignore file is a text file that tells Git which files or folders to ignore in a project.
+[Look Gitignore Templates](https://github.com/github/gitignore)
 ##  Basics 
 * Create empty Git repo in specified directory. Run with no
 arguments to initialize the current directory as a git repository.
