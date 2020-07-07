@@ -26,6 +26,13 @@ Look at IBM developer page => [How it works](https://developer.ibm.com/technolog
 ## Git Ignore
 Gitignore file is a text file that tells Git which files or folders to ignore in a project.
 [Look Gitignore Templates](https://github.com/github/gitignore)
+
+## Cheatsheet List
+* [Atlassian](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
+* [Github education](https://education.github.com/git-cheat-sheet-education.pdf)
+* [Github training](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
+
+
 ##  Basics 
 * Create empty Git repo in specified directory. Run with no
 arguments to initialize the current directory as a git repository.
